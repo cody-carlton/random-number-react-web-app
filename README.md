@@ -1,0 +1,2 @@
+# random number react web app
+ The purpose of this project is to create a running React web application, and work with the following programming elements:  React components Working with React state with useState hook Passing state variables to child components Code encapsulation Keeping App component simple Statistical calculations using array reduce and sort methods Spread operator to work with array copies Working with JSX Working with button click events Generating a random number
